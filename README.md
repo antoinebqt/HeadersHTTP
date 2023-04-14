@@ -8,7 +8,8 @@
 - Ouvrir la solution `TD2.sln` (dans Microsoft Visual Studio Code par exemple) qui se trouve dans le dossier backend.
 
 - Exécuter la solution `TD2.sln` pour lancer le serveur.
-A ce moment la un terminal devrait s'ouvrir et indiquer `"Serveur démarré sur http://localhost:8080/"` : 
+A ce moment la un terminal devrait s'ouvrir et indiquer `"Serveur démarré sur http://localhost:8080/"` :
+
 ![](https://cdn.discordapp.com/attachments/1091340351991709807/1096447518067392593/2023-04-14_16h50_51.jpg)
 
 ## Comment utiliser le projet
