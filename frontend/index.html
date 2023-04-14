@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TD2</title>
+    <script src="./index.js"></script>
+    <style>
+        p {
+            margin-bottom: 5px;
+            margin-top: 5px;
+        }
+
+        h3 {
+            margin-bottom : 0;
+            margin-top : 0;
+        }
+    </style>
+</head>
+<body>
+
+    <p style=" color: red">Note : Assurez vous que le serveur tourne dans la solution sur Visual Studio Code</p>
+
+    <div>
+        <h1>Question 1 : Différents types de serveurs utilisés</h1>
+        <h3 style="font-style: italic">Informations :</h3>
+        <p style="font-style: italic">Les stats se font sur 100 sites parmis ceux listés sur ce <a target="_blank" href="https://moz.com/top500">site</a>. Fichier texte avec les sites disponible <a target="_blank" href="../backend/TD2/bin/Debug/websiteUrls/topDomainUrls.txt">ici</a>.</p>
+        <p style="font-style: italic">Seul des sites finissant en ".com" sont utilisés.</p>
+        <p style="font-style: italic">Le chargement des stats peut durer jusqu'à 1 minute.</p>
+        <button id="btnStats-server">Calculer les stats</button>
+        <div id="countStats-server"></div>
+        <div id="resultStats-server"></div>
+    </div>
+
+    <div>
+        <h1>Question 2 : Moyenne et écart type de l'âge</h1>
+        <h3 style="font-style: italic">Informations :</h3>
+        <p style="font-style: italic">Les stats se font sur 10 pages du site de <a target="_blank" href="https://www.nicematin.com/"> Nice Matin</a>. Fichier texte avec les sites disponible <a target="_blank" href="../backend/TD2/bin/Debug/websiteUrls/niceMatinUrls.txt">ici</a>.</p>
+        <button id="btnStats-age">Calculer les stats</button>
+        <div id="resultStats-age"></div>
+    </div>
+
+    <div>
+        <h1>Question 3 : Scénarios de test</h1>
+        <h2>Scénario 1 : Longueur du contenu</h2>
+        <h3 style="font-style: italic">Informations :</h3>
+        <p style="font-style: italic">Les stats se font sur 10 pages <a target="_blank" href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal">Wikipédia</a> différentes. Fichier texte avec les sites disponible <a target="_blank" href="../backend/TD2/bin/Debug/websiteUrls/wikipediaUrls.txt">ici</a>.</p>
+        <button id="btnStats-scenario1">Calculer les stats</button>
+        <div id="resultStats-scenario1"></div>
+
+        <h2>Scénario 2 : Nombre de cookies</h2>
+        <h3 style="font-style: italic">Informations :</h3>
+        <p style="font-style: italic">Les stats se font sur 100 sites parmis ceux listés sur ce <a target="_blank" href="https://moz.com/top500">site</a>. Fichier texte avec les sites disponible <a target="_blank" href="../backend/TD2/bin/Debug/websiteUrls/topDomainUrls.txt">ici</a>.</p>
+        <p style="font-style: italic">Seul des sites finissant en ".com" sont utilisés.</p>
+        <p style="font-style: italic">Le chargement des stats peut durer jusqu'à 1 minute.</p>
+        <button id="btnStats-scenario2">Calculer les stats</button>
+        <div id="resultStats-scenario2"></div>
+    </div>
+
+</body>
+</html>

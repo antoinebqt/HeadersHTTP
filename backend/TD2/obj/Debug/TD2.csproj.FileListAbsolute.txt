@@ -1,0 +1,54 @@
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\TD2.exe.config
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\TD2.exe
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\TD2.pdb
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\obj\Debug\TD2.csproj.AssemblyReference.cache
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\obj\Debug\TD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\obj\Debug\TD2.exe
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\obj\Debug\TD2.pdb
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\obj\Debug\TD2.csproj.CopyComplete
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\CsvHelper.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Buffers.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Memory.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\CsvHelper.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Buffers.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Memory.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\TD2\TD2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\TD2.exe.config
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\TD2.exe
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\TD2.pdb
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\CsvHelper.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Buffers.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Memory.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\CsvHelper.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Buffers.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Memory.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\obj\Debug\TD2.csproj.AssemblyReference.cache
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\obj\Debug\TD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\obj\Debug\TD2.csproj.CopyComplete
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\obj\Debug\TD2.exe
+C:\Users\Antoine\Programmation\Ecole\4A_Polytech\Réseau\Tigli\Rendu Antoine Buquet\backend\TD2\obj\Debug\TD2.pdb
