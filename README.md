@@ -23,7 +23,7 @@ Tout en haut du fichier `Program.cs` de la solution `TD2.sln`, il est possible d
 
 ![](https://cdn.discordapp.com/attachments/1091340351991709807/1096446739843665971/2023-04-14_16h47_44.jpg)
 
-Les adresses URLs s'ajouteront aux adresses utilisées de base qui sont répertoriées dans ce fichier.
+Les adresses URLs s'ajouteront aux adresses utilisées de base qui sont répertoriées dans ce [fichier](https://github.com/antoinebqt/HeadersHTTP/blob/master/backend/TD2/bin/Debug/websiteUrls/topDomainUrls.txt).
 
 ## Justifications Question 3
 
